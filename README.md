@@ -1,4 +1,7 @@
-ML decoder using Feldman Linear Programming Forked from supermihi/lpdec reposits 
+ML decoder using Feldman Linear Programming  with cut-set condition Forked from supermihi/lpdec reposits 
+
+
+
 
 lpdec: library for LP decoding and related things
 =================================================
